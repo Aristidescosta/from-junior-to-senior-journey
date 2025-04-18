@@ -12,7 +12,7 @@
 | Next.js        | ⏳         | Blog SSG            |
 
 ## 🔥 Próximos Desafios  
-- [ ] Semântica (<article>, <section>, <nav>).   
+- [ ] Semântica (article, section, nav).   
 - [ ] Acessibilidade (ARIA, alt, tabindex).
 - [ ] SEO básico (meta tags, schema markup).  
 - [ ] Performance (defer, async, preload).  
